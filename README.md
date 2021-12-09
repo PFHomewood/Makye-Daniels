@@ -1,10 +1,13 @@
 # Vision Board
 
-Participants will work through the prompts in the index.html code to construct their vision complete with inspirational quotes, music, personal goals, and thankfulness. 
-    
-## Get started! 
+Welcome to Vision Board! We'll help you work through the code prompts in the index.html file to construct your *vision*, complete with inspirational quotes, music, personal goals, and thankfulness. Along the way, you'll learn a little about coding and computer science. 
 
-1. Go to the [Vision Board Template](https://github.com/PFHomewood/vision-board-template) repository in GitHub.
+**Vision Quest was designed by Pitt students Carter Keith, Domonique Swift, Janet Majekodunmi, and Makye Daniels.**     
+    
+    
+## Get started or return to edit and host your site on GitHub! 
+
+1. Go to the [Vision Board Template](https://github.com/PFHomewood/vision-board-template) repository in GitHub or go to your repository if you made one at a Homewood CEC event.
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
